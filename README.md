@@ -1,1 +1,1 @@
-# sicp
+# Sicp Racket
