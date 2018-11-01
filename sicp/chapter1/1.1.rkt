@@ -18,5 +18,5 @@
 (check-eq? (if (and (> b a) (< b (* a b))) b a) b)
 
 (check-eq? (cond ((= a 4) 6)
-		   ((= b 4) (+ 6 7 a))
-		   (else 25)) 16)
+           ((= b 4) (+ 6 7 a))
+           (else 25)) 16)
